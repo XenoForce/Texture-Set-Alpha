@@ -1,2 +1,2 @@
-# Texture-Set-Alpha
+# Texture Set Alpha
 A collection of nice sprites.
