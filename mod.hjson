@@ -1,0 +1,8 @@
+name: texture-set-alpha
+displayName: Texture Set Alpha
+author: XenoForce
+description: A collection of nice textures.
+version: "1.0.1"
+minGameVersion: "136"
+dependencies: []
+hideBrowser: true
